@@ -1,0 +1,1 @@
+docker run -e LISTEN_PORT="8080" -e TO_IP="xx.xx.xx.xx" -e TO_PORT="80" k8w-transparent-proxy
